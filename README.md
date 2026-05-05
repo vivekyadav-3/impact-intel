@@ -1,16 +1,45 @@
-# React + Vite
+# 💎 Impact Intel: GSSoC 2026 Dashboard Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Impact Intel** is a premium, recruiter-ready dashboard designed for participants of **GirlScript Summer of Code 2026**. It allows you to track your contributions, visualize your impact, and showcase your professional skills in one sleek interface.
 
-Currently, two official plugins are available:
+![Dashboard Preview](https://github.com/vivekyadav-3/impact-intel/raw/main/src/assets/hero.png) <!-- Note: Replace with actual hosted image link later -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
+- **Live Countdown**: Track the time until the GSSoC contribution window opens.
+- **Premium Design**: Dark mode with glassmorphism and smooth Framer Motion animations.
+- **Project Spotlight**: Showcase the repositories you are targeting.
+- **Skills Grid**: Highlight your expertise in Frontend, Backend, and Data.
+- **Mobile Responsive**: Looks great on all devices.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ How to use this template (3 Steps)
 
-## Expanding the ESLint configuration
+### 1. Fork the Repository
+Click the **Fork** button at the top right of this page to create your own copy of the project.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 2. Customize Your Data
+Open the project locally or in GitHub Web Editor and navigate to `src/data/projects.js`.
+- Change the `interestedProjects` to the ones you are targeting.
+- Update `myProjects` with your own personal work.
+- Update your skills in `src/App.jsx`.
+
+### 3. Deploy to Vercel
+1. Go to [Vercel](https://vercel.com).
+2. Click **Add New Project**.
+3. Select your forked `impact-intel` repository.
+4. Click **Deploy**. Your dashboard is now live!
+
+---
+
+## 💻 Tech Stack
+- **Frontend**: React + Vite
+- **Styling**: Tailwind CSS v4
+- **Animations**: Framer Motion
+- **Icons**: Lucide React
+
+## 🤝 Contributing
+Found a bug or want to add a feature? Feel free to open an issue or submit a pull request. Let's make this the best tool for the GSSoC community!
+
+---
+*Created by [Vivek](https://github.com/vivekyadav-3) for the GSSoC '26 Community.*

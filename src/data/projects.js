@@ -1,18 +1,15 @@
 export const interestedProjects = [
-  // Add your GSSoC target projects here!
-  /* 
   {
-    id: 'example-id',
+    id: 'checkora',
     type: 'gssoc',
-    name: 'Project Name',
-    description: 'Project description goes here...',
-    techStack: ['React', 'Node.js'],
-    openIssues: 0,
-    goodFirstIssues: 0,
-    maintainer: 'Mentor Name',
-    githubUrl: '#'
+    name: 'Checkora',
+    description: 'AI-powered chess platform running minimax search with alpha-beta pruning, wrapped in a Django backend.',
+    techStack: ['Python', 'C++', 'Django', 'JavaScript'],
+    openIssues: 46,
+    goodFirstIssues: 14,
+    maintainer: 'Ravi Kumar Gupta',
+    githubUrl: 'https://github.com/Ravi-Gupta-Developer/Checkora' // Based on his LinkedIn
   }
-  */
 ];
 
 export const myProjects = [

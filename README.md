@@ -2,7 +2,7 @@
 
 **Impact Intel** is a premium, recruiter-ready dashboard designed for participants of **GirlScript Summer of Code 2026**. It allows you to track your contributions, visualize your impact, and showcase your professional skills in one sleek interface.
 
-![Dashboard Preview](https://github.com/vivekyadav-3/impact-intel/raw/main/src/assets/hero.png) <!-- Note: Replace with actual hosted image link later -->
+![Dashboard Preview](https://github.com/vivekyadav-3/impact-intel/raw/main/src/assets/preview.png)
 
 ## 🚀 Features
 - **Live Countdown**: Track the time until the GSSoC contribution window opens.

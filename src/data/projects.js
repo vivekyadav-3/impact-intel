@@ -8,7 +8,7 @@ export const interestedProjects = [
     openIssues: 46,
     goodFirstIssues: 14,
     maintainer: 'Ravi Kumar Gupta',
-    githubUrl: 'https://github.com/Ravi-Gupta-Developer/Checkora' // Based on his LinkedIn
+    githubUrl: 'https://github.com/Checkora/Checkora'
   }
 ];
 
